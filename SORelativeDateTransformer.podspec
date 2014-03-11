@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = 'MIT'
   s.author       = { 'billgarrison' => '1billgarrison@gmail.com' }
   s.source       = {
-    :git => 'https://github.com/billgarrison/SORelativeDateTransformer.git',
+    :git => 'https://github.com/Wikimapia/SORelativeDateTransformer.git',
     :tag => "#{s.version}"
   }
   s.source_files = 'SORelativeDateTransformer/*.{h,m}'
